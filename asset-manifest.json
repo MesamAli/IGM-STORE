@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/IGM-STORE/static/css/main.29f224b2.css",
+    "main.js": "/IGM-STORE/static/js/main.8a872043.js",
+    "static/js/787.e245f23b.chunk.js": "/IGM-STORE/static/js/787.e245f23b.chunk.js",
+    "index.html": "/IGM-STORE/index.html",
+    "main.29f224b2.css.map": "/IGM-STORE/static/css/main.29f224b2.css.map",
+    "main.8a872043.js.map": "/IGM-STORE/static/js/main.8a872043.js.map",
+    "787.e245f23b.chunk.js.map": "/IGM-STORE/static/js/787.e245f23b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29f224b2.css",
+    "static/js/main.8a872043.js"
+  ]
+}
